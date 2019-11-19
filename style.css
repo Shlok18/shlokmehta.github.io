@@ -1,0 +1,77 @@
+
+.navbar-light .navbar-brand {
+    color: rgba(0, 0, 0, 0.9);
+    font-size: 2.3rem;
+    font-family: 'Actor', sans-serif;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: rgba(0,0,0,.9);
+    font-size: 1.3rem;
+    font-family: 'Actor', sans-serif;
+}
+    
+.github {
+    color:black;
+}
+
+#linkedin {
+    color: #49a6ff;
+}
+
+#resume {
+    color: #b96e51;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    color: antiquewhite;
+    margin: 0;
+}
+  
+.jumbotron {
+    margin-bottom: 0px !important;
+}
+
+
+.about{
+    text-align: center;
+    color: black;
+}
+
+
+h1{
+    text-align: center;
+    color: deepskyblue;
+}
+
+h2{
+    text-align: center;
+    color:deepskyblue
+}
+
+p {
+    text-align: center;
+    color:deepskyblue;
+}
+
+.fab{
+    padding-right: 10px;
+    padding-left: 10px;
+    text-align: center;
+}
+
+.fas{
+    padding-right: 10px;
+    padding-left: 10px;
+    text-align: center;
+}
+
+div img {
+    height: 300px;
+    width: 300px;
+    text-align: center;
+    color: blue;
+  }
